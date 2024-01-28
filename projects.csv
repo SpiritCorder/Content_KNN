@@ -1,0 +1,53 @@
+id,title,domains,skills
+1,E-commerce Website Enhancement,Retail|Web Development,HTML|CSS|JavaScript|PHP|MySQL|UX/UI Design|Payment Gateway Integration
+2,Inventory Management System,Retail,Java|Python|Database Management (SQL)|Web Development|Inventory Control Knowledge
+3,Customer Loyalty Program Application,Retail,Mobile App Development (iOS/Android)|Backend Development|User Authentication|CRM
+4,Online Order Tracking System,Retail|Web Development,React|Node.js|MongoDB|Real-time Data Updates|Geolocation Services
+5,Retail Analytics Dashboard,Retail|Web Development,Data Analytics|Data Visualization|Python|Power BI/Tableau|Data Warehousing
+6,Omnichannel Retail Platform,Retail| Web Development,Microservices Architecture|Docker/Kubernetes|API Development|Cloud Computing (AWS/Azure)
+7,Virtual Try-On for Fashion Retail,Retail|Web Development,Augmented Reality (AR)|Computer Vision|Mobile App Development|3D Modeling
+8,Price Comparison Website,Retail|Web Development,Web Scraping|Data Mining|Machine Learning (for pricing algorithms)|Frontend Development
+9,Personalized Product Recommendations,Retail|Web Development,Machine Learning (Recommendation Algorithms)|Python|Data Analysis
+10,Point of Sale (POS) System,Retail|Web Development,Java|C#|POS Hardware Integration|Payment Processing Integration
+11,Click and Collect Service,Retail|Web Development,Mobile App Development|Geolocation Services|Backend Development|Inventory Management
+12,Customer Feedback and Survey Platform,Retail|Web Development,PHP|MySQL|Survey Design|Feedback Analysis|User Experience Design
+13,Retail Chatbot for Customer Support,Retail|Web Development,Natural Language Processing (NLP)|Chatbot Development|AI/ML|Customer Service Knowledge
+14,Subscription Box Management System,Retail|Web Development,Subscription Billing|Subscription Management|Web Development
+15,Retail Data Security and Compliance,Retail|Web Development,Cybersecurity|Compliance Regulations|Data Encryption|Security Auditing
+16,Travel Booking Mobile App,Web Development|Mobile App Development|Travel,React Native|JavaScript|Firebase|API Integration|User Experience Design
+17,Tourist Destination Website,Web Development|Travel,HTML|CSS|JavaScript|Content Management System (CMS)|Geolocation Services
+18,Travel Expense Tracker App,Mobile App Development|Travel,Flutter|Dart|SQLite Database|Expense Tracking Logic|Mobile UI Design
+19,Web-Based Travel Itinerary Planner,Web Development|Travel,React|Node.js|MongoDB|Map APIs|Trip Planning Algorithms
+20,Automated Essay Grading System,Education|Natural Language Processing|Web Development,Natural Language Processing (NLP)|Machine Learning|Python|Text Analysis|Database Management
+21,Personalized Language Learning App,Education|Natural Language Processing|Mobile App Development,Mobile App Development|NLP|Speech Recognition|User Profiling|Gamification
+22,Plagiarism Detection Tool for Educational Institutions,Education|Natural Language Processing|Web Development,NLP|Text Comparison Algorithms|Web Development|User Authentication|Reporting
+23,Automated Tutoring Chatbot,Education|Natural Language Processing|Web Development,Chatbot Development|NLP|User Interaction Design|Knowledge Base Creation|AI/ML
+24,Language Translation and Learning Platform,Education|Natural Language Processing|Web Development,NLP|Machine Translation|Web Development|User Accounts and Progress Tracking|Multilingual Support
+25,Personal Finance Management Mobile App,Finance|Mobile App Development|Natural Language Processing,Mobile App Development (iOS/Android)|Natural Language Processing for Expense Categorization|Budgeting Algorithms
+26,Stock Market Sentiment Analysis Dashboard,Finance|Natural Language Processing|Web Development,Data Scraping|Natural Language Processing for Sentiment Analysis|Data Visualization (Web-based)
+27,E-commerce Price Comparison Mobile App,E-commerce|Mobile App Development|Natural Language Processing,Mobile App Development (iOS/Android)|Web Scraping|Natural Language Processing for Product Description Analysis
+28,Payment Fraud Detection System,Finance|Natural Language Processing|Web Development,Web Development|Machine Learning for Fraud Detection|Data Analysis|API Integration
+29,Automated Financial News Aggregator,Finance|Natural Language Processing|Web Development,Web Scraping|Natural Language Processing for News Summarization|Frontend Development (Web-based)
+30,Sentiment Analysis for Social Media,Natural Language Processing,Natural Language Processing|Machine Learning|Python|Text Classification|Data Collection and Cleaning
+31,All-in-One Financial Management App,E-commerce|Finance|Natural Language Processing|Web Development|Mobile App Development,JavaScript|React|Node.js|Python|NLP|Mobile App Development|Financial Analysis
+32,E-commerce Marketplace Platform,E-commerce|Web Development|Mobile App Development,PHP|React|Swift|Payment Gateway Integration|UX/UI Design
+33,Finance Analytics Dashboard,Finance|Web Development,Python|Django|Data Visualization|Financial Modeling|SQL
+34,Natural Language Processing Chatbot,Natural Language Processing|Web Development|Mobile App Development,Python|NLP|Chatbot Development|React Native|API Integration
+35,E-commerce Recommendation Engine,E-commerce|Natural Language Processing|Web Development,Java|Spring Boot|NLP|Recommendation Systems|Frontend Development
+36,Mobile Banking App,Finance|Mobile App Development,Swift|Android|Mobile Banking|Financial Transactions
+37,Web-based Stock Portfolio Tracker,Finance|Web Development,JavaScript|React|Stock Market Data|Database Management
+38,NLP Sentiment Analysis Tool,Natural Language Processing|Web Development,Python|NLP|React|Sentiment Analysis|Data Visualization
+39,E-commerce Inventory Management System,E-commerce|Web Development,PHP|JavaScript|Inventory Management|Database Design
+40,Finance News Aggregator App,Finance|Mobile App Development|Natural Language Processing,Python|React Native|NLP|API Integration|News Aggregation
+41,Mobile Wallet and Payment App,Finance|Mobile App Development|Web Development,React Native|Node.js|Payment Processing|UI/UX Design
+42,E-commerce Product Review Analyzer,E-commerce|Natural Language Processing|Web Development,Python|Django|NLP|Sentiment Analysis|Web Scraping
+43,Stock Market Prediction Model,Finance|Natural Language Processing,Python|Machine Learning|Time Series Analysis|NLP|Data Visualization
+44,Web-based Language Learning Platform,Web Development|Natural Language Processing,JavaScript|React|NLP|Language Learning Tools|User Engagement
+45,Mobile App for Personal Finance Management,Finance|Mobile App Development|Web Development,Swift|React|Node.js|Financial Tracking|Budgeting
+46,Travel Booking Website,Travel|Web Development,HTML|CSS|JavaScript|Node.js|Travel APIs|UI/UX Design
+47,Financial Portfolio Tracker,Finance|Web Development,Python|Django|Financial Data Integration|Data Visualization
+48,Travel Expense Management App,Travel|Finance|Mobile App Development,React Native|Node.js|Expense Tracking|Budgeting|Payment Integration
+49,Interactive Educational App for Kids,Education|Mobile App Development,React Native|UI/UX Design|Educational Content|Game Development
+50,E-Learning Platform for College Students,Education|Web Development|Mobile App Development,JavaScript|React|Node.js|Mobile App Development|Course Content Management
+51,Mobile App for Language Learning,Education|Mobile App Development|Natural Language Processing,React Native|NLP|Language Learning|Quiz Generation
+52,Educational Game for Math Practice,Education|Mobile App Development,Unity3D|C#|Game Design|Educational Content
